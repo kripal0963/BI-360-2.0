@@ -1,4 +1,6 @@
-# BI-360-2.0
+# BI-360-2.0     
+👉 Explore the live dashboard: https://lnkd.in/dCsFAKxD
+
 🚀 Just Completed My Power BI Project – Business Insights 360 (BI_360) 📊
 
 Thrilled to share my latest end-to-end Power BI dashboard — Business Insights 360 (BI_360) — designed to provide a 360° view of business performance through five strategic perspectives:
@@ -40,8 +42,6 @@ Page navigation
 🔹 Data validation best practices
 
 Publishing reports to Power BI Service & setting up auto-refresh via gateway
-
-👉 Explore the live dashboard: https://lnkd.in/dCsFAKxD
 
 📊 This project goes beyond visuals — it’s about enabling data-driven decisions across every level of the business.
 
